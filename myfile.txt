@@ -1,4 +1,4 @@
-line 1 gittest-edit
+line 1 gittest2-edit
 line 2
 line 3
 line 4
